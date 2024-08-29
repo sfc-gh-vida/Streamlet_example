@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folder
+venv/
+
+# Environment variables file
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (if you're using VS Code)
+.vscode/
+
+# macOS-specific files
+.DS_Store
+
+# Logs and local debug files
+*.log
+
+# Snowflake config files (if any)
+.snowflake/
+
+# System-specific files (e.g., Thumbs.db for Windows)
+Thumbs.db
+
+# Python packaging files
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
